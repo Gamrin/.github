@@ -2,7 +2,7 @@
 Welcome to the GitHub repository of the Municipality of Sittard-Geleen! This repository serves as a central hub for our organization's open-source projects, code samples, and collaborative initiatives.
 
 ## About Sittard-Geleen ##
-
+Sittard-Geleen, a city where you can enjoy living, working and living. A city where everyone can participate. With over 92,500 inhabitants, it is the central municipality of the region and the third largest municipality in the province of Limburg. More than 1000 employees work for the municipality of Sittard-Geleen. Everything we do as a municipality, we increasingly do together with our residents.
 
 
 ## Get Involved ##
