@@ -9,6 +9,6 @@ We believe that the power of open-source lies in collaboration and shared knowle
 
 To contribute to a project, simply follow the guidelines outlined in the project's respective repository. We appreciate your input and look forward to building a thriving open-source community together.
 
-Contact Us Ifyou have any questions, suggestions, or would like to collaborate on a project, please don't hesitate to reach out to us.
+Contact Us If you have any questions, suggestions, or would like to collaborate on a project, please don't hesitate to reach out to us.
 
 Thank you for your interest in the Municipality of Sittard-Geleen open-source initiatives. We appreciate your support and look forward to creating meaningful and impactful solutions together.
